@@ -3,19 +3,18 @@ cloud: Experience Cloud
 product: advertising cloud
 solution-title: Advertising Cloud
 solution-hub-url: https://helpx.adobe.com/support/advertising-cloud.html
-getting-started-title: Introdução
+getting-started-title: Getting Started
 getting-started-url: https://guided.adobe.com/#recommended/solutions/advertising-cloud
-tutorials-title: Tutoriais
+tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/advertising-cloud/tutorials.html
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/advertising-cloud-learn.pt-BR
+git-repo: https://github.com/AdobeDocs/advertising-cloud-learn.pt-BR
 index: true
 type: Tutorial
-translation-type: tm+mt
 source-git-commit: 2d24640189872abf07b27bdff6974d748073a243
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
