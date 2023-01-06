@@ -1,9 +1,8 @@
 ---
-source-git-commit: 497eeb447afc75863a00a807191be5cc6d058f74
+source-git-commit: 962a74c18225e35faf1f984f41ea5ee5211c381a
 workflow-type: tm+mt
-translation-type: tm+mt
-source-wordcount: '430'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 # Artigo do Contribute
@@ -16,13 +15,13 @@ Este projeto adotou o [Código de conduta de código aberto da Adobe](code-of-co
 
 ## Sobre suas contribuições para o conteúdo do Adobe
 
-Consulte o [Guia do colaborador Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Consulte a [Guia do colaborador Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 A forma como você contribui depende de quem você é e do tipo de mudanças com as quais você gostaria de contribuir:
 
 ### Pequenas alterações
 
-Se você estiver contribuindo com pequenas atualizações, visite o artigo e clique no link **Edit** no artigo que vai para a fonte GitHub do artigo. Em seguida, use a interface do usuário do GitHub para fazer as atualizações. Consulte o [Guia geral do colaborador Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) para obter mais informações.
+Se você estiver contribuindo com pequenas atualizações, visite o artigo e clique no link **Editar** link no artigo que vai para a fonte GitHub do artigo. Em seguida, use a interface do usuário do GitHub para fazer as atualizações. Veja o [Guia do colaborador Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) para obter mais informações.
 
 Pequenas correções ou esclarecimentos enviados para documentação e exemplos de código neste acordo de recompra são cobertos pelos termos de uso do Adobe.
 
@@ -44,7 +43,7 @@ Se você for um autor técnico, gerente de programa ou desenvolvedor da equipe d
 
 Os colaboradores da comunidade podem usar a interface do usuário do GitHub para a edição básica ou bifurcar o repositório para fazer grandes contribuições.
 
-Consulte o [Guia do colaborador Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) para obter detalhes.
+Consulte a [Guia do colaborador Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) para obter detalhes.
 
 ## Como usar marcação para formatar seu tópico
 
@@ -58,4 +57,4 @@ Todos os artigos neste repositório usam a marcação com sabor do GitHub. Se n�
 No repositório público, os rótulos automatizados são atribuídos para extrair solicitações para nos ajudar a gerenciar o fluxo de trabalho da solicitação de pull e para ajudar você a saber o que está acontecendo com sua solicitação de pull:
 
 * **Alteração enviada ao autor**: O autor foi notificado da solicitação de pull pendente.
-* **ready-to-merge**: Pronto para ser revisado pela equipe de revisão da solicitação de pull.
+* **ready-to-merge (pronto para mesclar)**: Pronto para ser revisado pela equipe de revisão da solicitação de pull.
