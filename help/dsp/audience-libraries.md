@@ -1,16 +1,16 @@
 ---
-title: Bibliotecas de público-alvo da Advertising Cloud DSP e aplicação de direcionamento comportamental
+title: DSP bibliotecas de público-alvo e aplicação de direcionamento comportamental
 description: Saiba mais sobre as bibliotecas de público-alvo reutilizáveis para personalizar a definição de metas comportamentais.
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Bibliotecas de público-alvo e aplicação de direcionamento comportamental
 
-Saiba mais sobre as bibliotecas de público-alvo reutilizáveis para personalizar a definição de metas comportamentais, como criá-las e como aplicá-las às disposições do Advertising Cloud DSP.
+Saiba mais sobre as bibliotecas de público-alvo reutilizáveis para personalizar o direcionamento comportamental, como criá-las e como aplicá-las às disposições do DSP.
 
 <!--
 >[!VIDEO]()

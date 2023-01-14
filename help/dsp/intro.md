@@ -1,15 +1,16 @@
 ---
-title: Introdução ao Advertising Cloud DSP
-description: Saiba mais sobre o Advertising Cloud DSP e como ele pode beneficiar suas campanhas de mídia.
-source-git-commit: 9094697600cd457b2a8d87c96e07a7de2140912a
+title: Introdução ao Adobe Advertising DSP
+description: Saiba mais sobre o Adobe Advertising DSP e como ele pode beneficiar suas campanhas de mídia.
+exl-id: 6aa44b8e-da4d-4141-b7b5-989046586315
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# Introdução ao Advertising Cloud DSP
+# Introdução ao Adobe Advertising DSP
 
-Saiba mais sobre o Advertising Cloud DSP, incluindo como ele se encaixa no Adobe Experience Cloud, o que ele pode fazer pelos anunciantes e como uma integração com o Adobe Analytics e serviços adicionais pode beneficiar suas campanhas de mídia.
+Saiba mais sobre a DSP de publicidade, incluindo como ela se encaixa no Adobe Experience Cloud, o que ela pode fazer pelos anunciantes e como uma integração com o Adobe Analytics e serviços adicionais pode beneficiar suas campanhas de mídia.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339200)

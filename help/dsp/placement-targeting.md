@@ -1,16 +1,16 @@
 ---
-title: Recursos de definição de metas de posicionamento para a Advertising Cloud DSP
+title: Recursos de direcionamento de posicionamento para DSP
 description: Saiba mais sobre as diferentes opções de direcionamento para suas disposições.
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '31'
+source-wordcount: '27'
 ht-degree: 0%
 
 ---
 
 # Recursos de direcionamento de posicionamento
 
-Saiba mais sobre as diferentes opções de direcionamento para suas disposições do Advertising Cloud DSP.
+Saiba mais sobre as diferentes opções de direcionamento para suas DSP disposições.
 
 <!--
 >[!VIDEO]()
