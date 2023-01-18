@@ -1,8 +1,7 @@
 ---
 title: Criar [!DNL Analytics] Perfis para ativação e relatórios de publicidade do Adobe
 description: Saiba como usar o Adobe Analytics para criar pools robustos de redirecionamento de site para remarketing de Adobe Advertising.
-exl-id: e367435c-238a-4025-a160-ff72d45ea741
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
